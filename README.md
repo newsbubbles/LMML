@@ -1,5 +1,5 @@
 # LMML
-LMML (Language Model Markup Language) is a proposed and open standard for giving agential configuration to a predictive API call on any large language model. As it is an open standard, we invite anyone to join, fork, and contribute to this repository.
+LMML (Language Model Markup Language) is a proposed and open standard for giving agential configuration to a predictive API call on any large language model. As it is an open standard, we invite anyone to join, fork, and contribute to this repository. [Join Our Discord](https://discord.gg/5Cnc8kzu) to discuss.
 
 ## The LMML Engine
 The LMML Engine acts as an interpreter between a standardized document format for autonomous agent configuration and the final text prompt fed to the API endpoint of a Large Language Model. In other words, as the world of AI assisted applications builds up, [Prompting is Programming](https://arxiv.org/abs/2212.06094); meaning that in order to get the results one wants directly from an LLM (Large Language Model), one has to know exactly how to warm up the model with system prompts, and coerce the model to output what one wants.
