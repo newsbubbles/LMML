@@ -44,8 +44,5 @@ This standard can streamline the act of creating autonomous agents using large l
 
 Imagine an experience where you open a chat app and this is your window to the entire internet. The agent you speak with is one you are familiar with and remembers your previous conversations. The agent can also talk with other agents online and you can view their conversation right in the chat history.  The browser on your device has any API keys already added into it for any AI service you might want to use specifically.  You can go directly to chat with some AI chat agent on a website by simply navigating to that website.
 
-## What is needed?
-* A chat based browser running native on device
-* An extension or plugin to existing web servers like Apache, NGINX, and service containers
-* An engine that performs the prompt interpretation which can run client or server side
-* 
+## The Standard
+* [RFC Style Standard Specification](./standard/)
